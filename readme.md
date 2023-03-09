@@ -6,7 +6,7 @@ Tic-Tac-Toe game created using Html, Css, Javascript. Concepts such as css grid,
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/76560065/223959059-f9d0f57c-fc00-439b-b685-0b72073d56b5.gif)
 
 
 ## Deployment
